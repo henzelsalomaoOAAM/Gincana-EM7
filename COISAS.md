@@ -3,11 +3,11 @@
 ## A fazer:
 
 - Setar um líder pra cada desafio
-Líder geral/Comitê de Ética (Henzel Salomão)
-Dança ()
-Quadrilha ()
-Filantrópicas ()
-Esportivas (Gustavo Cabrerisso)
+Líder geral/Comitê de Ética (Henzel Salomão) <br/>
+Dança () <br/>
+Quadrilha () <br/>
+Filantrópicas () <br/>
+Esportivas (Gustavo Cabrerisso) <br/>
 
 
 
