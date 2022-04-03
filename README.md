@@ -1,15 +1,15 @@
 # Gincana EM7 e EM8 Organização
 
-## A fazer:
 
+```markdown
 - Setar um líder pra cada desafio
 
-Líder geral/Comitê de Ética (Henzel Salomão) <br/>
-Dança () <br/>
-Quadrilha () <br/>
-Filantrópicas () <br/>
-Esportivas (Gustavo Cab <br/>
-
+Líder geral/Comitê de Ética (Henzel Salomão) 
+Dança () 
+Quadrilha ()
+Filantrópicas ()
+Esportivas (Gustavo Cabrerisso)
+```
 
 
 ## Arrecadação de Ração (06/06)
@@ -34,14 +34,19 @@ Esportivas (Gustavo Cab <br/>
 ## Diário de bordo: (data a confirmar)
 
 
-
-
-
-
-
 ## Filantrópicas
 ## Culturais
 ## Produções Artísticas
 ## Conhecimentos Gerais
 ## Provas Esportivas
 ## Provas Extras e Surpresas
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/henzelsalomaoOAAM/Gincana-EM7/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
