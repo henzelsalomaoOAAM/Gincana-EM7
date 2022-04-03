@@ -3,6 +3,7 @@
 ## A fazer:
 
 - Setar um líder pra cada desafio
+
 Líder geral/Comitê de Ética (Henzel Salomão) <br/>
 Dança () <br/>
 Quadrilha () <br/>
