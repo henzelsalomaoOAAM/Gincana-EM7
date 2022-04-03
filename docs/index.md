@@ -1,5 +1,4 @@
-# Gincana EM7 e EM8 Organização
-
+# Gincana EM7 e EM8 
 
 ```markdown
 - Setar um líder pra cada desafio
