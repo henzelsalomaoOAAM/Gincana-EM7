@@ -1,5 +1,16 @@
 # Gincana EM7 e EM8 Organização
 
+## A fazer:
+
+- Setar um líder pra cada desafio
+Líder geral/Comitê de Ética (Henzel Salomão)
+Dança ()
+Quadrilha ()
+Filantrópicas ()
+Esportivas (Gustavo Cabrerisso)
+
+
+
 ## Arrecadação de Ração (06/06)
 ## Arrecadação de Latinhas (08/08)
 ## Arrecadação de Leite (26/09 e 24/10)
