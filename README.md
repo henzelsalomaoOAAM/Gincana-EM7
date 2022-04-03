@@ -15,6 +15,8 @@ Esportivas (Gustavo Cabrerisso)
 
 # Desafios (por ordem de ocorrência)
 
+
+
 ## Filantrópicas (3000 pontos)
 
 ### Arrecadação de Ração (06/06)
