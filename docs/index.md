@@ -1,4 +1,4 @@
-# Gincana EM7 Organizaçãooo
+# Gincana EM7 & JIM Organização
 
 ```markdown
 - Setar um líder pra cada desafio
