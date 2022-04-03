@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# Gincana EM7 e EM8 Organização
 
-You can use the [editor on GitHub](https://github.com/henzelsalomaoOAAM/Gincana-EM7/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+- Setar um líder pra cada desafio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Líder geral/Comitê de Ética (Henzel Salomão) <br/>
+Dança () <br/>
+Quadrilha () <br/>
+Filantrópicas () <br/>
+Esportivas (Gustavo Cabrerisso) <br/>
 
 ### Markdown
 
