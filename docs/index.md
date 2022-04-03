@@ -8,7 +8,7 @@ Líder geral/Comitê de Ética (Henzel Salomão)
 Dança () 
 Quadrilha ()
 Filantrópicas ()
-Esportivas (Gustavo Cabrerisso)
+Esportivas (Gus
 ```
 
 
