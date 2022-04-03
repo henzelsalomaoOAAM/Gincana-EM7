@@ -21,7 +21,27 @@ Esportivas (Gustavo Cabrerisso)
 
 ### Arrecadação de Ração (06/06)
 
+**OBJETIVO: Todos os EMs devem arrecadar a máxima quantidade possível de latinhas de alumínio para venda e doação de cestas básicas às entidades carentes.**
+
+**META: 3000 latinhas por EM.**
+
+- Os alunos deverão estar com proteções nas mãos e nos pés, principalmente, podendo usar máscaras e outros recursos de proteção individual, para realizar a contagem das latinhas;
+- As latinhas deverão estar DENTRO DA ESCOLA ATÉ 8h. Nenhuma latinha que for trazida após este horário será contabilizada na pontuação;
+- A equipe que ultrapassar a META e trouxer o maior número de latinhas ficará em 1º lugar, a equipe que ultrapassar a META e trouxer o 2º (segundo) maior número de latinhas ficará em 2º lugar, e a equipe que ultrapassar a META e trouxer o 3º (terceiro) maior número de latinhas ficará em 3º lugar.
+
+**Toda latinha que adentrar a escola será pesada e o valor da venda ficará para os gastos da gincana.**
+
 ### Arrecadação de Latinhas (08/08)
+
+**OBJETIVO: Todos os EMs devem arrecadar a máxima quantidade possível de latinhas de alumínio para venda e doação de cestas básicas às entidades carentes.**
+
+**META: 3000 latinhas por EM.**
+
+- Os alunos deverão estar com proteções nas mãos e nos pés, principalmente, podendo usar máscaras e outros recursos de proteção individual, para realizar a contagem das latinhas;
+- As latinhas deverão estar DENTRO DA ESCOLA ATÉ 8h. Nenhuma latinha que for trazida após este horário será contabilizada na pontuação;
+- A equipe que ultrapassar a META e trouxer o maior número de latinhas ficará em 1º lugar, a equipe que ultrapassar a META e trouxer o 2º (segundo) maior número de latinhas ficará em 2º lugar, e a equipe que ultrapassar a META e trouxer o 3º (terceiro) maior número de latinhas ficará em 3º lugar.
+
+**Toda latinha que adentrar a escola será pesada e o valor da venda ficará para os gastos da gincana.**
 
 ### Arrecadação de Leite (26/09 e 24/10)
 
