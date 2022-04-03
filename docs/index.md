@@ -10,15 +10,12 @@ Filantrópicas ()
 Esportivas (Gustavo Cabrerisso)
 ```
 
-
-
 # Desafios (por ordem de ocorrência)
-
 
 
 ## Filantrópicas (3000 pontos)
 
-### Arrecadação de Ração (06/06)
+### >>> Arrecadação de Ração (06/06)
 
 **OBJETIVO: Todos os EMs devem arrecadar a máxima quantidade possível de latinhas de alumínio para venda e doação de cestas básicas às entidades carentes.**
 
@@ -30,7 +27,7 @@ Esportivas (Gustavo Cabrerisso)
 
 **Toda latinha que adentrar a escola será pesada e o valor da venda ficará para os gastos da gincana.**
 
-### Arrecadação de Latinhas (08/08)
+### >>> Arrecadação de Latinhas (08/08)
 
 **OBJETIVO: Todos os EMs devem arrecadar a máxima quantidade possível de latinhas de alumínio para venda e doação de cestas básicas às entidades carentes.**
 
@@ -42,7 +39,7 @@ Esportivas (Gustavo Cabrerisso)
 
 **Toda latinha que adentrar a escola será pesada e o valor da venda ficará para os gastos da gincana.**
 
-### Arrecadação de Leite (26/09 e 24/10)
+### >>> Arrecadação de Leite (26/09 e 24/10)
 
 **OBJETIVO: Todos os EMs devem arrecadar a máxima quantidade possível de leite para doação às entidades carentes (podendo este ser leite em pó).**
 
