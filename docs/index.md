@@ -4,10 +4,10 @@
 - Setar um líder pra cada desafio
 
 Líder geral/Comitê de Ética (Henzel Salomão) 
-Dança () 
-Quadrilha ()
-Filantrópicas (Anna Laura Morijo De Araujo)
-Esportivas (Gustavo Cabrerisso)
+Dança (Manuela Fachinette) 
+Quadrilha (Anna Laura Morijo De Araujo)
+Filantrópicas (Gustavo Cabrerisso)
+Esportivas (Isabela)
 ```
 
 # Desafios (por ordem de ocorrência)
