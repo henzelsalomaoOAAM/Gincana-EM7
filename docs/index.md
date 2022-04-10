@@ -6,7 +6,7 @@
 Líder geral/Comitê de Ética (Henzel Salomão) 
 Dança (Manuela Fachinette) 
 Quadrilha (Anna Laura Morijo De Araujo)
-Filantrópicas (Gustavo Cabrerisso)
+Filantrópicas ()
 Esportivas (Isabela)
 ```
 
